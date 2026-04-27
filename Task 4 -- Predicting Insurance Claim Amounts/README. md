@@ -1,18 +1,16 @@
-Task 4: Predicting Insurance Claim Amounts
+# Task 4: Medical Insurance Claim Prediction
+This project involves building a Machine Learning model to predict medical insurance claim amounts based on individual personal data.
 
-Estimating medical insurance claim amounts using Machine Learning.
+### 🎯 Objective
+* Preprocess and clean the Medical Cost Personal dataset.
+* Encode categorical data and analyze feature correlations.
+* Train a regression model to predict insurance charges.
 
-Objective:
-● Train a Linear Regression model to predict charges.
-● Visualize how BMI, age, and smoking status impact insurance charges.
-● Evaluate model performance using MAE and RMSE.
+### 🧠 Model Details
+* **Algorithm:** Linear Regression
+* **Accuracy Score:** 78.36% (R-squared)
 
-Skills:
-● Regression modeling
-● Feature correlation and visualization
-● Error evaluation using MAE and RMSE
-
-Results:
-● Accuracy: 78% (R² Score)
-● Error Metrics: MAE ($4,181) and RMSE ($5,796)
-● Top Influencers: Smoking Status, Age, and BMI.
+### 📁 Folder Contents
+* `Insurance_Claim_Prediction.ipynb`: Full code and visualization.
+* `insurance.csv`: The dataset used for training.
+* **Model/**: Contains the saved `.pkl` file for deployment.
