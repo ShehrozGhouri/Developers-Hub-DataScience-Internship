@@ -1,5 +1,5 @@
 # Credit Risk Prediction Project
-This project was completed as part of my **Data Science Internship at Developers Hub.
+This project was completed as part of my Data Science Internship at Developers Hub.
 
 # Project Overview
 The goal is to predict whether a loan should be approved based on applicant details like income, education, and credit history using **Logistic Regression**.
