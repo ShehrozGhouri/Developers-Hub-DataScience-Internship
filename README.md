@@ -24,7 +24,7 @@ Welcome to my internship project repository! This repository contains my work as
 * **Objective:** Estimate medical insurance claim amounts based on personal data.
 * **Algorithm:** Linear Regression.
 * **Key Skills:** Regression modeling, Feature correlation, and Error evaluation (MAE/RMSE).
-* **Deliverables:** Trained .pkl model and visualization notebook.
+* **Deliverables:** Trained `.pkl` model and visualization notebook.
 
 ---
 **Author:** Shehroz Ghouri  
